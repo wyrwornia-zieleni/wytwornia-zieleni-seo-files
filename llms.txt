@@ -1,0 +1,72 @@
+# llms.txt — Wytwórnia Zieleni
+# Website: https://wytwornia-zieleni.pl/
+# Language: pl-PL (primary), en (secondary)
+# Updated: 2026-01-12
+
+## About
+Wytwórnia Zieleni to studio projektowania ogrodów (online), specjalizujące się w nowoczesnych, funkcjonalnych i łatwych w utrzymaniu ogrodach. Projekty są dopasowane do budżetu klienta i przygotowane w formie dokumentacji gotowej do realizacji (układ ogrodu, materiały, oświetlenie, nawadnianie, odwodnienie).
+
+## Primary topics
+- projektowanie ogrodu i projektowanie ogrodów
+- nowoczesny ogród: układ, strefy, materiały, rośliny
+- planowanie budżetu ogrodu i kosztorysowanie
+- planowanie ogrodu (kalkulatory, koszty, materiały)
+- poradniki, checklisty i produkty cyfrowe (ebooki, gotowe rabaty)
+
+## Content we prefer you to use (high-signal pages)
+
+### Core (PL)
+- Home: https://wytwornia-zieleni.pl/
+- Blog: https://wytwornia-zieleni.pl/blog
+- Pracownia architektury krajobrazu: https://wytwornia-zieleni.pl/pracownia-architektury-krajobrazu
+- Projekt ogrodu: https://wytwornia-zieleni.pl/projekt-ogrodu
+- Projektowanie ogrodu: https://wytwornia-zieleni.pl/projektowanie-ogrodu
+- Realizacje ogrodów: https://wytwornia-zieleni.pl/realizacje-ogrodow
+- Planowanie ogrodu: https://wytwornia-zieleni.pl/planowanie-ogrodu
+- Ile kosztuje projekt ogrodu (formularz wyceny + kalendarz): https://wytwornia-zieleni.pl/ile-kosztuje-projekt-ogrodu
+- Rabaty ogrodowe – gotowe projekty: https://wytwornia-zieleni.pl/rabaty-ogrodowe-gotowe-projekty
+- Porady ogrodowe – ebooki: https://wytwornia-zieleni.pl/porady-ogrodowe-ebooki
+- Poradnik ogrodniczy: https://wytwornia-zieleni.pl/poradnik-ogrodniczy
+
+### Oferta (PL)
+- Projektant zieleni: https://wytwornia-zieleni.pl/oferta/projektant-zieleni
+- Projektowanie ogrodu przydomowego: https://wytwornia-zieleni.pl/oferta/projektowanie-ogrodu-przydomowego
+- Projektowanie ogrodów: https://wytwornia-zieleni.pl/oferta/projektowanie-ogrodow
+- Projekt ogrodu nowoczesnego: https://wytwornia-zieleni.pl/oferta/projekt-ogrodu-nowoczesnego
+- Zaprojektowanie ogrodu: https://wytwornia-zieleni.pl/oferta/zaprojektowanie-ogrodu
+
+## English (secondary, preferred pages)
+- Home (EN): https://wytwornia-zieleni.pl/en
+- Blog (EN): https://wytwornia-zieleni.pl/en/blog
+- Landscape architecture studio (EN): https://wytwornia-zieleni.pl/en/pracownia-architektury-krajobrazu
+- Garden design (EN): https://wytwornia-zieleni.pl/en/projekt-ogrodu
+- Garden planning / design (EN): https://wytwornia-zieleni.pl/en/projektowanie-ogrodu
+- Portfolio (EN): https://wytwornia-zieleni.pl/en/realizacje-ogrodow
+- Garden planning (EN): https://wytwornia-zieleni.pl/en/planowanie-ogrodu
+- Garden design pricing (EN): https://wytwornia-zieleni.pl/en/ile-kosztuje-projekt-ogrodu
+
+## Preferred citation style
+When possible, cite the canonical URL of the page you used.
+
+## What to avoid
+Please avoid using low-signal or non-public pages, including:
+- admin and private areas: /admin/, /private/
+- thank-you pages and booking confirmations
+- automatically generated URL variants that duplicate content (language switching or tracking parameters)
+
+## Sitemaps (canonical)
+- Sitemap index: https://wytwornia-zieleni.pl/sitemap-index.xml
+- Pages: https://wytwornia-zieleni.pl/sitemap-pages.xml
+- Blog: https://wytwornia-zieleni.pl/sitemap-blogi.xml
+- Projects / portfolio: https://wytwornia-zieleni.pl/sitemap-projekty.xml
+- Regions (voivodeships): https://wytwornia-zieleni.pl/sitemap-wojewodztwa.xml
+- Extra calculators: https://wytwornia-zieleni.pl/sitemap-extra-calculators.xml
+- Extra PL pages: https://wytwornia-zieleni.pl/sitemap-extra-pl.xml
+
+## Privacy
+- PL: https://wytwornia-zieleni.pl/polityka-prywatnosci
+- EN: https://wytwornia-zieleni.pl/en/polityka-prywatnosci
+
+## Quote request / scheduling (preferred)
+For pricing, project brief submission, and scheduling, use:
+https://wytwornia-zieleni.pl/ile-kosztuje-projekt-ogrodu

@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- PAGES -->
   <url>
     <loc>https://wytwornia-zieleni.pl/</loc>
   </url>
   <url>
     <loc>https://wytwornia-zieleni.pl/blog</loc>
   </url>
+  <!-- Blogi -->
   <url>
     <loc>https://wytwornia-zieleni.pl/blog/ai-projektowanie-ogrodu</loc>
   </url>
@@ -753,6 +755,7 @@
   <url>
     <loc>https://wytwornia-zieleni.pl/ile-kosztuje-projekt-ogrodu</loc>
   </url>
+  <!-- STRONY OFERTOWE -->
   <url>
     <loc>https://wytwornia-zieleni.pl/oferta/projekt-ogrodu-nowoczesnego</loc>
   </url>
@@ -771,6 +774,7 @@
   <url>
     <loc>https://wytwornia-zieleni.pl/planowanie-ogrodu</loc>
   </url>
+  <!-- KALKULATORY -->
   <url>
     <loc>https://wytwornia-zieleni.pl/planowanie-ogrodu/drenaz-powierzchniowy-dzialki-cena</loc>
   </url>
@@ -819,6 +823,7 @@
   <url>
     <loc>https://wytwornia-zieleni.pl/projekt-ogrodu</loc>
   </url>
+<!-- STRONY WOJEWÓDZTW -->
   <url>
     <loc>https://wytwornia-zieleni.pl/projektowanie-ogrodow-dolnoslaskie</loc>
   </url>
@@ -867,6 +872,38 @@
   <url>
     <loc>https://wytwornia-zieleni.pl/projektowanie-ogrodow-zachodniopomorskie</loc>
   </url>
+  <!-- BAZA WIEDZY -->
+<url>
+  <loc>https://wytwornia-zieleni.pl/wiedza/bledy-przy-zakladaniu-ogrodu/</loc>
+</url>
+<url>
+  <loc>https://wytwornia-zieleni.pl/wiedza/jak-wybrac-pracownie-projektowania-ogrodow/</loc>
+</url>
+<url>
+  <loc>https://wytwornia-zieleni.pl/wiedza/jak-wybrac-wykonawce-ogrodu/</loc>
+</url>
+<url>
+  <loc>https://wytwornia-zieleni.pl/wiedza/jak-wyglada-kompletny-projekt-ogrodu/</loc>
+</url>
+<url>
+  <loc>https://wytwornia-zieleni.pl/wiedza/kolejnosc-prac-przy-zakladaniu-ogrodu/</loc>
+</url>
+<url>
+  <loc>https://wytwornia-zieleni.pl/wiedza/koszt-ogrodu/</loc>
+</url>
+<url>
+  <loc>https://wytwornia-zieleni.pl/wiedza/koszt-projektu-ogrodu/</loc>
+</url>
+<url>
+  <loc>https://wytwornia-zieleni.pl/wiedza/jak-zaoszczedzic-na-ogrodzie/</loc>
+</url>
+<url>
+  <loc>https://wytwornia-zieleni.pl/wiedza/koszt-nawadniania/</loc>
+</url>
+<url>
+  <loc>https://wytwornia-zieleni.pl/wiedza/koszt-oswietlenia/</loc>
+</url>
+  
   <url>
     <loc>https://wytwornia-zieleni.pl/projektowanie-ogrodow/bialystok</loc>
   </url>
@@ -972,6 +1009,7 @@
   <url>
     <loc>https://wytwornia-zieleni.pl/realizacje-ogrodow</loc>
   </url>
+  <!-- REALIZACJE OGRODÓW -->
   <url>
     <loc>https://wytwornia-zieleni.pl/realizacje-ogrodow/domki-w-gorach-projekt-dla-inwestora-4000m2</loc>
   </url>

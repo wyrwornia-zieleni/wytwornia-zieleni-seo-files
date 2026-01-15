@@ -62,14 +62,8 @@ Please avoid using low-signal or non-public pages, including:
 - thank-you pages and booking confirmations
 - automatically generated URL variants that duplicate content (language switching or tracking parameters)
 
-## Sitemaps (canonical)
-- Sitemap index: https://wytwornia-zieleni.pl/sitemap-index.xml
-- Pages: https://wytwornia-zieleni.pl/sitemap-pages.xml
-- Blog: https://wytwornia-zieleni.pl/sitemap-blogi.xml
-- Projects / portfolio: https://wytwornia-zieleni.pl/sitemap-projekty.xml
-- Regions (voivodeships): https://wytwornia-zieleni.pl/sitemap-wojewodztwa.xml
-- Extra calculators: https://wytwornia-zieleni.pl/sitemap-extra-calculators.xml
-- Extra PL pages: https://wytwornia-zieleni.pl/sitemap-extra-pl.xml
+## Sitemap (canonical)
+- Sitemap index: https://wytwornia-zieleni.pl/sitemap.xml
 
 ## Privacy
 - PL: https://wytwornia-zieleni.pl/polityka-prywatnosci

@@ -1,7 +1,7 @@
 # llms.txt — Wytwórnia Zieleni
 # Website: https://wytwornia-zieleni.pl/
 # Language: pl-PL (primary), en (secondary)
-# Updated: 2026-01-12
+# Updated: 2026-01-15
 
 ## About
 Wytwórnia Zieleni to studio projektowania ogrodów (online), specjalizujące się w nowoczesnych, funkcjonalnych i łatwych w utrzymaniu ogrodach. Projekty są dopasowane do budżetu klienta i przygotowane w formie dokumentacji gotowej do realizacji (układ ogrodu, materiały, oświetlenie, nawadnianie, odwodnienie).
@@ -27,6 +27,14 @@ Wytwórnia Zieleni to studio projektowania ogrodów (online), specjalizujące si
 - Rabaty ogrodowe – gotowe projekty: https://wytwornia-zieleni.pl/rabaty-ogrodowe-gotowe-projekty
 - Porady ogrodowe – ebooki: https://wytwornia-zieleni.pl/porady-ogrodowe-ebooki
 - Poradnik ogrodniczy: https://wytwornia-zieleni.pl/poradnik-ogrodniczy
+
+### Baza wiedzy (PL)
+- Knowledge hub: https://wytwornia-zieleni.pl/wiedza/
+- Kolejność prac przy zakładaniu ogrodu: https://wytwornia-zieleni.pl/wiedza/kolejnosc-prac-przy-zakladaniu-ogrodu/
+- Koszt ogrodu: https://wytwornia-zieleni.pl/wiedza/koszt-ogrodu/
+- Koszt projektu ogrodu: https://wytwornia-zieleni.pl/wiedza/koszt-projektu-ogrodu/
+- Jak wygląda kompletny projekt ogrodu: https://wytwornia-zieleni.pl/wiedza/jak-wyglada-kompletny-projekt-ogrodu/
+- Jak wybrać wykonawcę ogrodu: https://wytwornia-zieleni.pl/wiedza/jak-wybrac-wykonawce-ogrodu/
 
 ### Oferta (PL)
 - Projektant zieleni: https://wytwornia-zieleni.pl/oferta/projektant-zieleni

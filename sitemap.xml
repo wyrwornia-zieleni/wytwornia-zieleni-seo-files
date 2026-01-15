@@ -1,12 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- PAGES -->
-  <url>
-    <loc>https://wytwornia-zieleni.pl/</loc>
-  </url>
-  <url>
-    <loc>https://wytwornia-zieleni.pl/blog</loc>
-  </url>
+  <!-- PAGES PL -->
+ <url>
+  <loc>https://wytwornia-zieleni.pl/</loc>
+</url>
+
+<url>
+  <loc>https://wytwornia-zieleni.pl/blog</loc>
+</url>
+
+<url>
+  <loc>https://wytwornia-zieleni.pl/planowanie-ogrodu</loc>
+</url>
+
+<url>
+  <loc>https://wytwornia-zieleni.pl/realizacje-ogrodow</loc>
+</url>
+
+<url>
+  <loc>https://wytwornia-zieleni.pl/projekt-ogrodu</loc>
+</url>
+
+<url>
+  <loc>https://wytwornia-zieleni.pl/projektowanie-ogrodu</loc>
+</url>
+  
+<url>
+  <loc>https://wytwornia-zieleni.pl/ile-kosztuje-projekt-ogrodu</loc>
+</url>
+
+<url>
+  <loc>https://wytwornia-zieleni.pl/pracownia-architektury-krajobrazu</loc>
+</url>
+
+<url>
+  <loc>https://wytwornia-zieleni.pl/poradnik-ogrodniczy</loc>
+</url>
+  
+<url>
+  <loc>https://wytwornia-zieleni.pl/polityka-prywatnosci</loc>
+</url>
+  
+<url>
+  <loc>https://wytwornia-zieleni.pl/porady-ogrodowe-ebooki</loc>
+</url>
+
+<url>
+  <loc>https://wytwornia-zieleni.pl/rabaty-ogrodowe-gotowe-projekty</loc>
+</url>
+  
+<url>
+  <loc>https://wytwornia-zieleni.pl/polityka-prywatnosci</loc>
+</url>
   <!-- Blogi -->
   <url>
     <loc>https://wytwornia-zieleni.pl/blog/ai-projektowanie-ogrodu</loc>
@@ -752,9 +797,6 @@
   <url>
     <loc>https://wytwornia-zieleni.pl/en/realizacje-ogrodow/zagospodarowanie-zieleni-przy-firmie-stan-szklo</loc>
   </url>
-  <url>
-    <loc>https://wytwornia-zieleni.pl/ile-kosztuje-projekt-ogrodu</loc>
-  </url>
   <!-- STRONY OFERTOWE -->
   <url>
     <loc>https://wytwornia-zieleni.pl/oferta/projekt-ogrodu-nowoczesnego</loc>
@@ -770,9 +812,6 @@
   </url>
   <url>
     <loc>https://wytwornia-zieleni.pl/oferta/zaprojektowanie-ogrodu</loc>
-  </url>
-  <url>
-    <loc>https://wytwornia-zieleni.pl/planowanie-ogrodu</loc>
   </url>
   <!-- KALKULATORY -->
   <url>
@@ -807,21 +846,6 @@
   </url>
   <url>
     <loc>https://wytwornia-zieleni.pl/planowanie-ogrodu/zakladanie-ogrodu-koszty-kalkulator</loc>
-  </url>
-  <url>
-    <loc>https://wytwornia-zieleni.pl/polityka-prywatnosci</loc>
-  </url>
-  <url>
-    <loc>https://wytwornia-zieleni.pl/poradnik-ogrodniczy</loc>
-  </url>
-  <url>
-    <loc>https://wytwornia-zieleni.pl/porady-ogrodowe-ebooki</loc>
-  </url>
-  <url>
-    <loc>https://wytwornia-zieleni.pl/pracownia-architektury-krajobrazu</loc>
-  </url>
-  <url>
-    <loc>https://wytwornia-zieleni.pl/projekt-ogrodu</loc>
   </url>
 <!-- STRONY WOJEWÓDZTW -->
   <url>
@@ -1006,9 +1030,6 @@
   <url>
     <loc>https://wytwornia-zieleni.pl/rabaty-ogrodowe-gotowe-projekty</loc>
   </url>
-  <url>
-    <loc>https://wytwornia-zieleni.pl/realizacje-ogrodow</loc>
-  </url>
   <!-- REALIZACJE OGRODÓW -->
   <url>
     <loc>https://wytwornia-zieleni.pl/realizacje-ogrodow/domki-w-gorach-projekt-dla-inwestora-4000m2</loc>
@@ -1157,6 +1178,7 @@
   <url>
     <loc>https://wytwornia-zieleni.pl/realizacje-ogrodow/zagospodarowanie-zieleni-przy-firmie-stan-szklo</loc>
   </url>
+  <!-- MIASTA SEO - LOKALIZACJE -->
   <url>
   <loc>https://wytwornia-zieleni.pl/projektowanie-ogrodow/zbroslawice</loc>
 </url>

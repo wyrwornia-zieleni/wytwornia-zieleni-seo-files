@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "lastUpdated": "2025-01-26",
   "cacheHours": 168,
   "description": "Mapowanie hreflang PL <-> EN dla wytwornia-zieleni.pl",
@@ -53,7 +53,7 @@
     "/blog/srednie-trawy-na-zywoplot": "/en/blog/border-grass-plants",
     "/blog/nowoczesne-pergole-tarasowe-idealne-rozwiazanie-dla-ogrodu": "/en/blog/contemporary-pergola-ideas",
     "/blog/nawadnianie-kropelkowe": "/en/blog/drip-irrigation-system-guide",
-    "/blog/rosliny-zimozielone": "/en/blog/modern-evergreen-plants",
+    "/blog/iglaki-na-zywoplot": "/en/blog/evergreen-hedge-plants",
     "/blog/swierk-na-zywoplot": "/en/blog/fast-growing-spruce",
     "/blog/aranzacja-ogrodu-przy-plocie": "/en/blog/fence-line-landscaping-privacy-plants-design",
     "/blog/zywoplot-lisciasty": "/en/blog/flowering-hedge-plants",
@@ -89,6 +89,7 @@
     "/blog/nawadnianie-trawnik": "/en/blog/lawn-irrigation-system",
     "/blog/lld-light-ekskluzywne-oswietlenie-ogrodowe-od-wloskiego-producenta": "/en/blog/luxury-lighting-design",
     "/blog/metalowe-pergole-do-ogrodu": "/en/blog/metal-garden-pergola",
+    "/blog/rosliny-zimozielone": "/en/blog/modern-evergreen-plants",
     "/blog/ogrod-nowoczesny": "/en/blog/modern-garden-design",
     "/blog/byliny-do-ogrodu-nowoczesnego-przyklady": "/en/blog/modern-garden-perennials",
     "/blog/drzewa-ozdobne-do-ogrodu-nowoczesnego": "/en/blog/modern-landscape-trees",

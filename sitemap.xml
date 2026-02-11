@@ -41,6 +41,9 @@
   <loc>https://wytwornia-zieleni.pl/wiedza</loc>
 </url>
 <url>
+  <loc>https://wytwornia-zieleni.pl/sklep</loc>
+</url>
+<url>
   <loc>https://wytwornia-zieleni.pl/polityka-prywatnosci</loc>
 </url>
 
@@ -61,6 +64,19 @@
 </url>
 <url>
   <loc>https://wytwornia-zieleni.pl/oferta/zaprojektowanie-ogrodu</loc>
+</url>
+
+<!-- ============================================ -->
+<!-- SKLEP – POLSKA -->
+<!-- ============================================ -->
+<url>
+  <loc>https://wytwornia-zieleni.pl/sklep/gotowe-rabaty-ogrodowe-ebook</loc>
+</url>
+<url>
+  <loc>https://wytwornia-zieleni.pl/sklep/komplet-ebookow-ogrodowych</loc>
+</url>
+<url>
+  <loc>https://wytwornia-zieleni.pl/sklep/strefa-paleniska-ogrod-ebook</loc>
 </url>
 
 <!-- ============================================ -->

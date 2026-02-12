@@ -46,6 +46,9 @@
 <url>
   <loc>https://wytwornia-zieleni.pl/polityka-prywatnosci</loc>
 </url>
+<url>
+  <loc>https://wytwornia-zieleni.pl/polityka-cookies</loc>
+</url>
 
 <!-- ============================================ -->
 <!-- STRONY OFERTOWE - POLSKA -->
@@ -713,6 +716,12 @@
 </url>
 <url>
   <loc>https://wytwornia-zieleni.pl/en/realizacje-ogrodow</loc>
+</url>
+<url>
+  <loc>https://wytwornia-zieleni.pl/en/polityka-prywatnosci</loc>
+</url>
+<url>
+  <loc>https://wytwornia-zieleni.pl/en/polityka-cookies</loc>
 </url>
 
 <!-- ============================================ -->

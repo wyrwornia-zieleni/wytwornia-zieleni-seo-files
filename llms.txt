@@ -1,75 +1,58 @@
-# llms.txt — Wytwórnia Zieleni
-# Website: https://wytwornia-zieleni.pl/
-# Language: pl-PL (primary), en (secondary)
-# Updated: 2026-01-15
+# Wytwórnia Zieleni
 
-## About
-Wytwórnia Zieleni to studio projektowania ogrodów (online), specjalizujące się w nowoczesnych, funkcjonalnych i łatwych w utrzymaniu ogrodach. Projekty są dopasowane do budżetu klienta i przygotowane w formie dokumentacji gotowej do realizacji (układ ogrodu, materiały, oświetlenie, nawadnianie, odwodnienie).
+> Pracownia architektury krajobrazu z Tarnowskich Gór projektująca ogrody w modelu zdalnym dla całej Polski oraz klientów w Anglii, Belgii, Niemczech i USA. 13+ lat doświadczenia, 300+ zrealizowanych projektów. Specjalizacja: nowoczesne ogrody przydomowe z dokumentacją gotową do wykonania (koncepcja, projekt techniczny 2D, wizualizacje 3D dzień/noc, dobór roślin, nawadnianie, oświetlenie, odwodnienie).
 
-## Primary topics
-- projektowanie ogrodu i projektowanie ogrodów
-- nowoczesny ogród: układ, strefy, materiały, rośliny
-- planowanie budżetu ogrodu i kosztorysowanie
-- planowanie ogrodu (kalkulatory, koszty, materiały)
-- poradniki, checklisty i produkty cyfrowe (ebooki, gotowe rabaty)
+Studio prowadzone przez Magdalenę i Wojciecha Kazimierowiczów. Proces 4-etapowy: budżet (Etap 0) → koncepcja → projekt techniczny → wsparcie wdrożenia. SLA 10 dni roboczych na etap, 1 darmowa rewizja na etap, gwarancja zwrotu podwójnego zadatku (Art. 394 KC), 4 raty po 25%. Witryna w jęz. polskim (kanoniczna) z wersją angielską.
 
-## Content we prefer you to use (high-signal pages)
+## Strony główne
 
-### Core (PL)
-- Home: https://wytwornia-zieleni.pl/
-- Blog: https://wytwornia-zieleni.pl/blog
-- Pracownia architektury krajobrazu: https://wytwornia-zieleni.pl/pracownia-architektury-krajobrazu
-- Projekt ogrodu: https://wytwornia-zieleni.pl/projekt-ogrodu
-- Projektowanie ogrodu: https://wytwornia-zieleni.pl/projektowanie-ogrodu
-- Realizacje ogrodów: https://wytwornia-zieleni.pl/realizacje-ogrodow
-- Planowanie ogrodu: https://wytwornia-zieleni.pl/planowanie-ogrodu
-- Ile kosztuje projekt ogrodu (formularz wyceny + kalendarz): https://wytwornia-zieleni.pl/ile-kosztuje-projekt-ogrodu
-- Rabaty ogrodowe – gotowe projekty: https://wytwornia-zieleni.pl/rabaty-ogrodowe-gotowe-projekty
-- Porady ogrodowe – ebooki: https://wytwornia-zieleni.pl/porady-ogrodowe-ebooki
-- Poradnik ogrodniczy: https://wytwornia-zieleni.pl/poradnik-ogrodniczy
-- Sklep z ebookami i kursami: https://wytwornia-zieleni.pl/sklep
+- [Wytwórnia Zieleni — strona główna](https://wytwornia-zieleni.pl/): hub usługowy z USP, procesem i CTA do wyceny
+- [Pracownia architektury krajobrazu](https://wytwornia-zieleni.pl/pracownia-architektury-krajobrazu): strona "o nas" — autorzy, doświadczenie, metoda pracy
+- [Projekt ogrodu](https://wytwornia-zieleni.pl/projekt-ogrodu): pillar BOFU — co zawiera kompletny projekt, etapy, dokumentacja
+- [Projektowanie ogrodu](https://wytwornia-zieleni.pl/projektowanie-ogrodu): pillar TOFU — proces, harmonogram, model współpracy zdalnej
+- [Realizacje ogrodów](https://wytwornia-zieleni.pl/realizacje-ogrodow): portfolio 300+ projektów z lokalizacjami i metrażem
+- [Ile kosztuje projekt ogrodu](https://wytwornia-zieleni.pl/ile-kosztuje-projekt-ogrodu): formularz wyceny i rezerwacji rozmowy
 
-### Baza wiedzy (PL)
-- Knowledge hub: https://wytwornia-zieleni.pl/wiedza/
-- Kolejność prac przy zakładaniu ogrodu: https://wytwornia-zieleni.pl/wiedza/kolejnosc-prac-przy-zakladaniu-ogrodu/
-- Koszt ogrodu: https://wytwornia-zieleni.pl/wiedza/koszt-ogrodu/
-- Koszt projektu ogrodu: https://wytwornia-zieleni.pl/wiedza/koszt-projektu-ogrodu/
-- Jak wygląda kompletny projekt ogrodu: https://wytwornia-zieleni.pl/wiedza/jak-wyglada-kompletny-projekt-ogrodu/
-- Jak wybrać wykonawcę ogrodu: https://wytwornia-zieleni.pl/wiedza/jak-wybrac-wykonawce-ogrodu/
+## Strona lokalna (Tarnowskie Góry / Śląsk)
 
-### Oferta (PL)
-- Projektant zieleni: https://wytwornia-zieleni.pl/oferta/projektant-zieleni
-- Projektowanie ogrodu przydomowego: https://wytwornia-zieleni.pl/oferta/projektowanie-ogrodu-przydomowego
-- Projektowanie ogrodów: https://wytwornia-zieleni.pl/oferta/projektowanie-ogrodow
-- Projekt ogrodu nowoczesnego: https://wytwornia-zieleni.pl/oferta/projekt-ogrodu-nowoczesnego
-- Zaprojektowanie ogrodu: https://wytwornia-zieleni.pl/oferta/zaprojektowanie-ogrodu
+- [Projektowanie ogrodów Tarnowskie Góry](https://wytwornia-zieleni.pl/projektowanie-ogrodow/tarnowskie-gory): dedykowany landing dla rynku lokalnego z danymi LocalBusiness
 
-## English (secondary, preferred pages)
-- Home (EN): https://wytwornia-zieleni.pl/en
-- Blog (EN): https://wytwornia-zieleni.pl/en/blog
-- Landscape architecture studio (EN): https://wytwornia-zieleni.pl/en/pracownia-architektury-krajobrazu
-- Garden design (EN): https://wytwornia-zieleni.pl/en/projekt-ogrodu
-- Garden planning / design (EN): https://wytwornia-zieleni.pl/en/projektowanie-ogrodu
-- Portfolio (EN): https://wytwornia-zieleni.pl/en/realizacje-ogrodow
-- Garden planning (EN): https://wytwornia-zieleni.pl/en/planowanie-ogrodu
-- Garden design pricing (EN): https://wytwornia-zieleni.pl/en/ile-kosztuje-projekt-ogrodu
+## Oferta — sub-pillary
 
-## Preferred citation style
-When possible, cite the canonical URL of the page you used.
+- [Projekt ogrodu nowoczesnego](https://wytwornia-zieleni.pl/oferta/projekt-ogrodu-nowoczesnego): styl nowoczesny — układ, materiały, rośliny strukturalne
+- [Projektowanie ogrodu przydomowego](https://wytwornia-zieleni.pl/oferta/projektowanie-ogrodu-przydomowego): ogród przy domu jednorodzinnym — strefy, funkcje, budżet
 
-## What to avoid
-Please avoid using low-signal or non-public pages, including:
-- admin and private areas: /admin/, /private/
-- thank-you pages and booking confirmations
-- automatically generated URL variants that duplicate content (language switching or tracking parameters)
+## Baza wiedzy i poradniki
 
-## Sitemap (canonical)
-- Sitemap index: https://wytwornia-zieleni.pl/sitemap.xml
+- [Blog ogrodniczy](https://wytwornia-zieleni.pl/blog): artykuły o projektowaniu, roślinach, materiałach i kosztach
+- [Poradnik ogrodniczy](https://wytwornia-zieleni.pl/poradnik-ogrodniczy): biblioteka darmowych e-booków i checklistów PDF
+- [Baza wiedzy — hub](https://wytwornia-zieleni.pl/wiedza/): pogłębione opracowania pillarowe
+- [Kolejność prac przy zakładaniu ogrodu](https://wytwornia-zieleni.pl/wiedza/kolejnosc-prac-przy-zakladaniu-ogrodu/): harmonogram realizacji od projektu do nasadzeń
+- [Koszt ogrodu](https://wytwornia-zieleni.pl/wiedza/koszt-ogrodu/): składowe budżetu wykonawczego (zł/m²)
+- [Koszt projektu ogrodu](https://wytwornia-zieleni.pl/wiedza/koszt-projektu-ogrodu/): cennik dokumentacji projektowej
+- [Jak wygląda kompletny projekt ogrodu](https://wytwornia-zieleni.pl/wiedza/jak-wyglada-kompletny-projekt-ogrodu/): zawartość teczki projektowej
+- [Jak wybrać wykonawcę ogrodu](https://wytwornia-zieleni.pl/wiedza/jak-wybrac-wykonawce-ogrodu/): kryteria wyboru ekipy realizacyjnej
 
-## Privacy
-- PL: https://wytwornia-zieleni.pl/polityka-prywatnosci
-- EN: https://wytwornia-zieleni.pl/en/polityka-prywatnosci
+## Narzędzia i kalkulatory
 
-## Quote request / scheduling (preferred)
-For pricing, project brief submission, and scheduling, use:
-https://wytwornia-zieleni.pl/ile-kosztuje-projekt-ogrodu
+- [Planowanie ogrodu](https://wytwornia-zieleni.pl/planowanie-ogrodu): hub kalkulatorów kosztów i powierzchni
+
+## Produkty cyfrowe
+
+- [Sklep z e-bookami i kursami](https://wytwornia-zieleni.pl/sklep): produkty cyfrowe Wytwórni Zieleni
+- [Rabaty ogrodowe — gotowe projekty](https://wytwornia-zieleni.pl/rabaty-ogrodowe-gotowe-projekty): e-book z gotowymi kompozycjami roślinnymi
+- [Porady ogrodowe — e-booki](https://wytwornia-zieleni.pl/porady-ogrodowe-ebooki): kolekcja praktycznych poradników PDF
+
+## English version
+
+- [Wytwórnia Zieleni — homepage (EN)](https://wytwornia-zieleni.pl/en): English entry point
+- [Landscape architecture studio (EN)](https://wytwornia-zieleni.pl/en/pracownia-architektury-krajobrazu): about the studio
+- [Garden design (EN)](https://wytwornia-zieleni.pl/en/projekt-ogrodu): pillar — what a complete garden design includes
+- [Garden design process (EN)](https://wytwornia-zieleni.pl/en/projektowanie-ogrodu): pillar — process and remote collaboration model
+- [Portfolio (EN)](https://wytwornia-zieleni.pl/en/realizacje-ogrodow): completed projects across 5 countries
+- [Garden design pricing (EN)](https://wytwornia-zieleni.pl/en/ile-kosztuje-projekt-ogrodu): quote request form
+
+## Optional
+
+- [Sitemap XML](https://wytwornia-zieleni.pl/sitemap.xml): pełna mapa strony
+- [Polityka prywatności](https://wytwornia-zieleni.pl/polityka-prywatnosci): polityka prywatności i cookies
